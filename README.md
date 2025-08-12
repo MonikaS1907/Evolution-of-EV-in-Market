@@ -1,5 +1,5 @@
 # Evolution-of-EV-in-Market
-🚗 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
+🚗 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄****
 Developed an Electric Vehicle (EV) population analysis and forecasting system that explores registration trends, evaluates adoption patterns, and predicts future EV growth. Leveraged data cleaning, statistical analysis, and predictive modeling to generate insights on manufacturers, range performance, and regional adoption. Designed interactive dashboards for data-driven decision-making.
 
 ✨ 𝗞𝗲𝘆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
